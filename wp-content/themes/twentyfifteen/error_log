@@ -1,0 +1,1 @@
+[26-Jan-2017 03:45:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kcguser1234/public_html/kochinternalerts.com/wp-content/themes/twentyfifteen/404.php on line 10

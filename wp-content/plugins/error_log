@@ -1,0 +1,1 @@
+[24-Jan-2017 01:22:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/kcguser1234/public_html/kochinternalerts.com/wp-content/plugins/hello.php on line 60
